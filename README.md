@@ -23,7 +23,7 @@ Console will tell what to do
 
 For nerds:
 Time complexity:
-O\!\left(P + \sum_{i=1}^{P} T_i\right)
+$$O\!\left(P + \sum_{i=1}^{P} T_i\right)$$
 
 O(P + T)
 
