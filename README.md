@@ -22,9 +22,10 @@ Console will tell what to do
 
 
 For nerds:
-Time complexity:
-$$O\!\left(P + \sum_{i=1}^{P} T_i\right)$$
 
-O(P + T)
+ Time complexity:
+  $$O\!\left(P + \sum_{i=1}^{P} T_i\right)$$
 
-where P is playlist and T is amount of tracks in playlist
+  O(P + T)
+
+  where P is playlist and T is amount of tracks in playlist
